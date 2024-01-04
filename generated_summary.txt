@@ -1,0 +1,1 @@
+USOO9038026B2 (10) Patent No.: US 9,038,026 B2 Chandra et al. (45) Date of Patent: May 19, 2015 (54) SYSTEMAND METHOD FOR AUTOMATING 7,296,188 B2 * 1 1/2007 Paternostro et al....... 714,38.14 TESTAUTOMATION 7,437,614 B2 * 10/2008 Haswell et al....... 714/38.13 7,478,
