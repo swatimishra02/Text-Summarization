@@ -1,11 +1,11 @@
 # Text-Summarization
 Document and text summarization is the process of condensing a text document into a shorter version while retaining its key information and main ideas. It is the process of simplifying relevant information from large documentations and literature, without losing the crucial information of the original text. In this project, several methodologies of patent document summarization is explored, comparing and contrasting various ways of summarizing text. The methodologies covered in this report are:
 
-A.Extractive summarization
-B.Abstractive summarization
-C.BERT model  (Bi-directional Encoder representation from Transformers)
-D.T5 (Text to Text transfer transformer)
-E.Pegasus model. 
+- A. Extractive summarization
+- B.Abstractive summarization
+- C.BERT model  (Bi-directional Encoder representation from Transformers)
+- D.T5 (Text to Text transfer transformer)
+- E.Pegasus model. 
 
 Steps Involved in Text Summarization
 
